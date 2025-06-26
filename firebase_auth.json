@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jorie-clinicalanalytics-auth",
+  "private_key_id": "4c4fd876a0a02e7e5f7f3ff2312f4a718d6bb75a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP5oYWKH6C+BnF\nZFoGIcck60ioSMtD7dyWmZdhZilgDkqTp7YJYvCJJIgWDThae2wjsNSJFnQmmYrw\n16RvAKKsIlm/ie4xcucy78B7WNjajoWQ81hZfcdLyw4UU8yeY2t1bVwzRZ534a+U\nqW42SOlAzDhzyhKRsYSKSsG7gkw3qScDqrPdQcO8UdpCaYHS5HGiifyFksrdtSU8\nq6cRgU9vwLTDCCNZZ93DmpbCaGutR6VfuWxyA1zjxeR3Jvr5w4h00cLDl+A+jo7Z\ndX33VWH+7KgJkkg0Y+MMtW9ED3IqdiHqnXW09hM86bIUKTMYGthWeCLSNFjKwt2Y\n3z71NyHRAgMBAAECggEAI8u5Qo9uWPaG2WnR5kRimYS5WeBOvz9xP6zqV6bTcOqF\nBK9XtH4IlFRp6gIUtd+SWwLTVVc8YHkHZzh543Lkj2bKtSP2kyUJkceeCJ7fl6H6\ndV6w05fIfNBVeEKFdLABjJJr0ZgnFNUS+jHB/C7JmpKPFcCxOcyq2XTNro9cuChk\nSLtelsP4QI4+63soHV6ufeWxBKiv1hjpMz68CupwGvAnDssW0gs5hfch1zS4hUQr\nrl/9ZsCxbgdnKiifLjBMts/gR++jDC7sgtJuLDqFmz0FBWB6+6/e+XhgtEARI/MI\nYCY/O2j9u2hSwyfb9iW5Sz0O2k531WfDzWa+eaLI0QKBgQDtoJmivf/V50gM8vyO\nyZwI8kTZoWsbzbn7lFkW8dwHfKQYMJ3jav++O9igTOD10bwqGwAh1+n9ial57uVK\nX71D43NORQjOQPhwkXFrfIpX6QYMJQctmU8+O7p3q4Dve9mK2olm/r+ajYuJX5bw\nCYPG2Mc7T3J3B8pNVwMA3UogPwKBgQDf+YjenifoGmdgArJKO6zevQ+12X+yuE02\n/nGdbRaOhTXLVL+bYSgQnuIuwrKSZet4q3U8StQgrJT+PAh8/jjW36vK+z+ZHk07\nXy4/Vu6SKuUPc4cxj6wh7WYuky9gBBejD2I0m1ioUZQa1S5eU5xvZK6Wk/gw/MlY\n3+KwPus57wKBgQDFdOB1hSBj5I3QhNEs7YbFQFvJ5AIW1nqm/PySvmMxrXbFyxBH\n+4+LyjsV6Qw9+Aw9iLYxaTM8xPmZItRRWwDwur4D2gWZLg/Dqnfu80waBL5LtTEj\nyPM6KXOnIVJArk90vGfUt/cLPHcorc/EooNn5paXSEs7cbO/VIBgZYHFDQKBgC/Q\njtavvuc/E8icasGMQdh/ViZFW4yk6d8OrOSl0EX2zEgvPISIVkxODw1ahVLZrU5i\nlDGd6/FZxqkL2egNQcclkwBPaQFgRa6iIDZncaEExUfqKvd6q43Gp6TTyS5fUUh/\nVUDT1TaBy/N6hV6fzOq+/MKqrjaPENEHYtarZ/5DAoGAAjKbmaJTQ6JHJMVYvkI4\nhzffugd7Hqs/+NmnW858ogfqfpvqb6rdKJxL1dy6Tjium1Hxf03NmjcK7XSe7lIB\nP1826qvcRhAmWErvFtKJdB3sHZVHRCnJ0/eklNw8PYysn/MyF1A3aNewPP32KcWx\nlLVfgZiL/BDdkX8XOXIsww8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@jorie-clinicalanalytics-auth.iam.gserviceaccount.com",
+  "client_id": "117122497859627253865",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40jorie-clinicalanalytics-auth.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
