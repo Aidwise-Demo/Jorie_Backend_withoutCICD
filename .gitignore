@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore Python bytecode and cache
+__pycache__/
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore other common Python environment folders
+.env/
+.venv/
+
+# Ignore _pysche (assuming you meant _pycache or a custom folder)
+_pysche/
+
+# Ignore all JSON files
+*.json
+
+# Ignore environment variable files
+.env
