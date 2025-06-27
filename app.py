@@ -4,6 +4,8 @@ import requests
 import logging
 from typing import Dict
 import msal
+
+# Third Party Imports
 from pydantic import BaseModel
 from fastapi import FastAPI, HTTPException, Depends, Form, Header
 from fastapi.middleware.cors import CORSMiddleware
@@ -66,7 +68,9 @@ DASHBOARD_REPORTS = {
     "patientTimeline": os.getenv("DASHBOARD_REPORT_PATIENT_TIMELINE"),
     "personaComparison": os.getenv("DASHBOARD_REPORT_PERSONA_COMPARISON"),
     "adherenceScorecard": os.getenv("DASHBOARD_REPORT_ADHERENCE_SCORECARD"),
-    "risk_prediction": os.getenv("DASHBOARD_REPORT_RISK_PREDICTION")
+    "risk_prediction": os.getenv("DASHBOARD_REPORT_RISK_PREDICTION"),
+    "diagnostic_odds": os.getenv("DASHBOARD_REPORT_DIAGNOSTIC_ODDS"),
+    "Overview": os.getenv("DASHBOARD_REPORT_OVERVIEW")
 }
 
 FIREBASE_API_KEY = os.getenv("FIREBASE_API_KEY_JORIE_JAYAM")
