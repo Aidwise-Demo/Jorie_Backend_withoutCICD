@@ -4,8 +4,6 @@ import requests
 import logging
 from typing import Dict
 import msal
-
-# Third Party Imports
 from pydantic import BaseModel
 from fastapi import FastAPI, HTTPException, Depends, Form, Header
 from fastapi.middleware.cors import CORSMiddleware
